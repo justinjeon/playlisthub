@@ -1,2 +1,2 @@
 # playlisthub
-Share your favorite spotify playlists with the world
+Share your favorite Spotify playlists with the world
